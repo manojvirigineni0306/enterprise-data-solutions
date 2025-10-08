@@ -109,4 +109,3 @@ This repository showcases my work on enterprise data platform solutions in the f
 
 ---
 
-*This portfolio demonstrates enterprise-level data engineering expertise in the financial services industry, showcasing technical leadership, system optimization, and security implementation capabilities.*
