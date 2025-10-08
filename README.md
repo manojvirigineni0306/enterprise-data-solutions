@@ -101,7 +101,7 @@ This repository showcases my work on enterprise data platform solutions in the f
 
 ---
 
-## 📞 Contact Information
+## Contact Information
 
 **Manoj Kumar Virigineni**
 - **Email:** Manojvirigineni@Outlook.com
