@@ -4,11 +4,11 @@
 **Role:** Senior Data Engineer / Database Administrator  
 **GitHub:** [@manojvirigineni0306](https://github.com/manojvirigineni0306)
 
-## 🏢 Project Overview
+##  Project Overview
 
 This repository showcases my work on enterprise data platform solutions in the financial services sector, specifically focusing on mortgage industry data engineering and analytics.
 
-## 🛠 Technical Stack
+##  Technical Stack
 
 - **Cloud Platform:** Snowflake Data Cloud
 - **Languages:** SQL, Python, Shell Scripting
@@ -16,7 +16,7 @@ This repository showcases my work on enterprise data platform solutions in the f
 - **Databases:** Snowflake, PostgreSQL, SQL Server
 - **DevOps:** Git, CI/CD Pipelines, Docker
 
-## 📊 Key Achievements
+## Key Achievements
 
 ### Data Engineering Excellence
 - **Real-time Data Processing:** Implemented intraday replication systems processing millions of mortgage transactions
@@ -30,7 +30,7 @@ This repository showcases my work on enterprise data platform solutions in the f
 - **Monitoring & Alerting:** Implemented comprehensive system monitoring
 - **Disaster Recovery:** Created enterprise backup and recovery solutions
 
-## 🔧 Technical Expertise Demonstrated
+##  Technical Expertise Demonstrated
 
 ### 1. **Snowflake Expertise**
 - Advanced SQL optimization and performance tuning
@@ -56,7 +56,7 @@ This repository showcases my work on enterprise data platform solutions in the f
 - Data quality validation rules
 - Access control and audit systems
 
-## 📈 Impact & Results
+##  Impact & Results
 
 - **System Reliability:** Achieved 99.9% uptime for critical data systems
 - **Cost Optimization:** Reduced data processing costs by 40% through warehouse optimization
@@ -64,14 +64,14 @@ This repository showcases my work on enterprise data platform solutions in the f
 - **Security Compliance:** Successfully passed SOX and regulatory audits
 - **Processing Volume:** Handled 10M+ daily transactions with sub-second latency
 
-## 🔒 Security & Compliance
+##  Security & Compliance
 
 - Implemented enterprise-grade data masking policies
 - Developed role-based access control (RBAC) frameworks
 - Created audit trail and monitoring systems
 - Ensured SOX compliance for financial data
 
-## 📚 Professional Skills
+##  Professional Skills
 
 - **Data Architecture:** Enterprise data warehouse design and implementation
 - **Performance Tuning:** Query optimization and system performance analysis
@@ -79,7 +79,7 @@ This repository showcases my work on enterprise data platform solutions in the f
 - **Leadership:** Mentored junior developers and led technical initiatives
 - **Documentation:** Created comprehensive technical documentation and runbooks
 
-## 🎯 Project Highlights
+## Project Highlights
 
 ### Enterprise Data Warehouse
 - Designed and implemented multi-terabyte data warehouse
@@ -104,8 +104,7 @@ This repository showcases my work on enterprise data platform solutions in the f
 ## 📞 Contact Information
 
 **Manoj Kumar Virigineni**
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn]
+- **Email:** Manojvirigineni@Outlook.com
 - **GitHub:** [@manojvirigineni0306](https://github.com/manojvirigineni0306)
 
 ---
